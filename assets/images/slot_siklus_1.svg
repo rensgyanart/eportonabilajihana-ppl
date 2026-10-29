@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad_slot_siklus_1_svg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a201c"/>
+      <stop offset="100%" stop-color="#111613"/>
+    </linearGradient>
+    <pattern id="grid_slot_siklus_1_svg" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1000" height="700" fill="url(#bgGrad_slot_siklus_1_svg)"/>
+  <rect width="1000" height="700" fill="url(#grid_slot_siklus_1_svg)"/>
+  <rect x="20" y="20" width="960" height="660" rx="20" fill="none" stroke="#cefe1e" stroke-width="2" stroke-dasharray="10 8" opacity="0.6"/>
+  
+  <g transform="translate(500.0, 295.0)">
+    <!-- Camera/Image Icon -->
+    <rect x="-45" y="-35" width="90" height="70" rx="14" fill="#cefe1e" opacity="0.15"/>
+    <rect x="-45" y="-35" width="90" height="70" rx="14" fill="none" stroke="#cefe1e" stroke-width="2.5"/>
+    <circle cx="0" cy="0" r="18" fill="none" stroke="#cefe1e" stroke-width="2.5"/>
+    <circle cx="24" cy="-18" r="4.5" fill="#cefe1e"/>
+    <path d="M -15 -35 L -10 -45 L 10 -45 L 15 -35" fill="none" stroke="#cefe1e" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+
+  <!-- Title Badge -->
+  <g transform="translate(500.0, 385.0)">
+    <rect x="-190" y="0" width="380" height="32" rx="16" fill="#cefe1e"/>
+    <text x="0" y="21" fill="#141815" font-family="'Plus Jakarta Sans', Inter, sans-serif" font-size="12.5" font-weight="800" text-anchor="middle" letter-spacing="0.5">SLOT FOTO PORTOFOLIO PPL</text>
+  </g>
+
+  <!-- Specific Slot Label -->
+  <text x="500.0" y="440.0" fill="#ffffff" font-family="'Plus Jakarta Sans', Inter, sans-serif" font-size="17" font-weight="700" text-anchor="middle">KBM Siklus Mandiri 1: Eksplorasi Konsep & Studio</text>
+  <text x="500.0" y="468.0" fill="rgba(255,255,255,0.72)" font-family="'Plus Jakarta Sans', Inter, sans-serif" font-size="13" font-weight="500" text-anchor="middle">Penataan 7 Meja Studio Melingkar X DKV & Asesmen Awal</text>
+  <text x="500.0" y="494.0" fill="#cefe1e" font-family="'Plus Jakarta Sans', Inter, sans-serif" font-size="12" font-weight="600" text-anchor="middle">Rekomendasi: Format Landscape 16:9 / 4:3 (Min. 1280 x 800 px)</text>
+</svg>
